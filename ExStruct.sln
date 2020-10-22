@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExStruct", "ExStruct\ExStruct.csproj", "{10201BA8-AE77-4BB3-BB08-847DA355ABBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10201BA8-AE77-4BB3-BB08-847DA355ABBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10201BA8-AE77-4BB3-BB08-847DA355ABBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10201BA8-AE77-4BB3-BB08-847DA355ABBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10201BA8-AE77-4BB3-BB08-847DA355ABBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD18BAF2-5099-41C5-96A7-A8DDF12C5982}
+	EndGlobalSection
+EndGlobal
