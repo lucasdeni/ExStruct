@@ -20,10 +20,10 @@ namespace ExStruct
             _quantidade = quantidade;
         }
 
-        // Utiização de properties
-        public string Nome
+        //Utiização de properties
+        public string Nome //Get e Set do Nome
         {
-            get
+            get 
             {
                 return _nome;
             }
@@ -35,16 +35,16 @@ namespace ExStruct
                 }
             }
         }
-        public double Preço
+        public double Preço 
         {
-            get
+            get //Get do Preço
             {
                 return _preço;
             }
         }
-        public int Quantidade
+        public int Quantidade 
         {
-            get
+            get //Get da Quantidade
             {
                 return _quantidade;
             }
